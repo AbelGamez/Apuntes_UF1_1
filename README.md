@@ -19,5 +19,5 @@
 >Disciplina que estudia los principios y metodologías para el desarrollo y mantenimiento de sistemas software. 
 - Algunos autores consideran que "desarrollo de software" es un término más apropiado que "ingeniería de software" 
 ### 1.3.2 Desarrollo de software
-###  Fases principales
+###  <p align="justify">Fases principales</p>
 
