@@ -158,5 +158,66 @@
             - Estándares de codificación
             - 40 horas semanales
 ### 1.4 Lenguajes de programación
+### 1.4.1 Proceso de Compilación/Interpretación
+-La compilación/interpretación del código fuente se lleva a cabo en dos fases:
+    - **Análisis léxico**
+    - **Análisis sintáctico**
+- Si no existen errores, se genera el código objeto correspondiente.
+- Un código fuente correctamente escrito no significa que funcione según lo deseado.
+- No se realiza un análisis semántico.
+### 1.4.1.1 lenguajes compilados
+- Ejemplos : C,C++
+- Principal ventaja. Ejecución muy eficiente.
+- Principal desventaja: Es necesario compilar cada vez que el código fuente es modificado.
+### 1.4.1.2 Lenguajes Interpretados
+- Ejemplos: PHP,Javascript
+- Principal ventaja:El códio fuente se interpreta directamente.
+- Prinicipal desventaja: Ejecucuón menos eficiente.
+### 1.4.2 Java
+- **Caracteristicas:** 
+    - Lenguajes compilado e interpretado.
+    - El código fuente java **se compila** y se obtiene un código binario intermedio denominado **bytecode.**
+    - Puede considerarse código objeto pero destinado a la máuina virtual de hava en lugar de código objeto nativo.
+    - Después este **bytecode se interpreta** para ejectarlo.
+- **Ventajas:**  
+    - Estructurado y orientado a objetos.
+    - Relativamente fácil de aprender.
+    - Buena documentación y base de usuarios.
+- **Desventajas:**
+    - Nebis eficiente que los lenguajes complicados. 
+### 1.4.3 Lenguajes Declarativos i Imperativos
+- **Declarativos:** Indicamos el resultado a obtener sin especificar los pasos.
+    - Tipos de **Lenguajes declarativos:**
+        - Lógicos:Utilizan reglas. Ej: Prolog
+        - Funcionales. Utilizan funciones. Ej: Lisp, Haskell.
+        - Algebriacos: Utilizan sentencias.Ej: SQL
+        - Normalmente son los lenguajes interpretados
+- **Imperativos:** Indicamos los pasos a seguir para obtener un resultado.
+    - Tipos de **lenguajes imperativos:**
+        - Estructurados: C
+        - Orientados a objetos: Java
+        - Multiparadigma: C++, Javascript
+        - Los lenguajes orientados a objetos son también lenguajes estructurados.
+        - Muchos de estos lenguajes son complicados.
+### 1.4.4 Lenguajes según nivel de abstracción:.
+- Bajo nivel: Ensamblador
+- Medio nivel:C
+- Alto nivel:C++,Java
+### 1.4.5 Evolución
+- Código binario
+- Ensamblador
+- Lenguajes estructurados
+- Lenguajes orientados a objetos
+### Historia 
+ - foto - link
+ ### 1.4.6 Criterios para la Selección de un lenguaje
+- Campo de aplicación
+- Experiencia previa
+- Herramientas de desarrollo 
+- Documentación disponible
+- Bases de usuarios
+- Reusabilidad
+- Portabilidad 
+- IMposición del cliente
 
 
